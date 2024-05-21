@@ -1,0 +1,18 @@
+Data Cleaning:
+Load the dataset from a CSV file.
+Drop unnecessary columns (e.g., metadata columns).
+Encode the target variable (e.g., ‘spam’ as 0 and ‘ham’ as 1).
+Handle missing values and remove duplicates.
+
+Exploratory Data Analysis (EDA):
+Understand dataset characteristics.
+Visualize spam vs. non-spam distribution (e.g., pie chart).
+Analyze character count, word count, and sentence count.
+d
+Text Preprocessing:
+Remove special characters and symbols.
+Convert text to lowercase.
+Tokenize text into words.
+Remove stop words (common words like ‘the,’ ‘and,’ etc.).
+Apply stemming (e.g., Porter’s Stemming Algorithm) to reduce words to their base form.
+Calculate word frequency and normalized term frequency.
